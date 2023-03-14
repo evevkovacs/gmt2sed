@@ -1,0 +1,19 @@
+name: hydro
+dependencies:
+    - python=3.9
+    - numpy 
+    - numba 
+    - jax
+    - ipython
+    - jupyter 
+    - matplotlib
+    - scipy
+    - pip
+    - astropy
+    - cython
+    - halotools
+    - diffmah
+    - diffstar
+    - dsps
+    - gcc
+    - gxx
