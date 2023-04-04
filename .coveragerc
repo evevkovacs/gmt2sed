@@ -1,0 +1,7 @@
+[run]
+source= gmt2sed/
+
+omit =
+    gmt2sed/__init__.py
+    gmt2sed/_version.py
+    gmt2sed/tests/*.py
